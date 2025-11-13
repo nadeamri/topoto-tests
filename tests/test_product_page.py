@@ -21,3 +21,4 @@ def test_product_page_elements(driver):
     # Vérifie que le produit VIDANGE est affiché
     assert product_page.is_vidange_displayed()
 
+

@@ -3,6 +3,11 @@ from src.pages.filtre_air_page import FiltreAirPage
 from src.pages.cart_page import CartPage
 
 # Dans tests/test_produit_navigation.py
+from src.pages.product_page import ProductPage
+from src.pages.filtre_air_page import FiltreAirPage
+from src.pages.cart_page import CartPage
+
+# Dans tests/test_produit_navigation.py
 
 # ... (les imports de ProductPage et FiltreAirPage) ...
 
